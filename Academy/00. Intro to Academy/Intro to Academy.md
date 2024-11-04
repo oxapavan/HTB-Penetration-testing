@@ -1,3 +1,14 @@
+---
+title: Learning Process
+layout: default
+---
+
+# Learning Process
+
+Content for the Learning Process page...
+
+
+
 # Intro to Academy
 
 Tags: #🧑‍🎓 
