@@ -2,7 +2,7 @@
 
 Welcome to the HTB CPTS modules. Explore each topic below:
 
-- [Intro to Academy](academy/00-intro-to-academy.md)
+- [Intro to Academy](HTB-Penetration-testing/Academy/00. Intro to Academy/Intro to Academy.md)
 - [Learning Process](academy/pre-engagement/01-learning-process.md)
 - [Penetration Testing Process](academy/pre-engagement/01a-penetration-testing-process.md)
 - [Setting Up](academy/pre-engagement/01b-setting-up.md)
