@@ -10,7 +10,7 @@ markdown: kramdown
 
 # Base URL settings
 baseurl: ""  # Set to subfolder if needed, e.g., "/HTB-CPTS"
-url: "https://oxapavan.github.io/HTB_CPTS"  # Update to your GitHub Pages URL
+url: "https://oxapavan.github.io/HTB-Penetration-testing"  # Update to your GitHub Pages URL
 
 # Navigation settings for files in directories
 collections:
